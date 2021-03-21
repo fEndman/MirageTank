@@ -1,4 +1,4 @@
-# MirageTank
+# MirageTank——幻影坦克工厂
 在这个应用程序中，你可以用你的手机生成一张幻影坦克图片，目前只支持灰度。  
 这是一个Xamarin.Form解决方案，但目前仅编写了Android项目。  
 主要的DoTankAssemble()方法位于./MirageTank/MainPage.xaml.cs中  
