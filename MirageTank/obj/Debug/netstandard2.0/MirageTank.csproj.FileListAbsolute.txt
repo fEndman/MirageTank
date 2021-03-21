@@ -1,0 +1,14 @@
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\bin\Debug\netstandard2.0\MirageTank.deps.json
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\bin\Debug\netstandard2.0\MirageTank.dll
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\bin\Debug\netstandard2.0\ref\MirageTank.dll
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\bin\Debug\netstandard2.0\MirageTank.pdb
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MirageTank.AssemblyInfoInputs.cache
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MirageTank.AssemblyInfo.cs
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MirageTank.csproj.CoreCompileInputs.cache
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\XamlC.stamp
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MirageTank.dll
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\ref\MirageTank.dll
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\MirageTank.pdb
+E:\00Project\Android Project\Xamarin\MirageTank\MirageTank\obj\Debug\netstandard2.0\ImagePage.xaml.g.cs
