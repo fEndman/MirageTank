@@ -52,15 +52,15 @@ namespace MirageTank
             await Navigation.PushAsync(new ImagePage(photoTankStream));
         }
 
-        private void Button_Clicked_1(object sender, EventArgs e)
-        {
-            DoTankAssemble();
-        }
-
         private void Switch_Toggled(object sender, ToggledEventArgs e)
         {
             if (Switch1.IsToggled) Image5.BackgroundColor = Color.Black;
             else Image5.BackgroundColor = Color.White;
+        }
+
+        private void Button_Clicked_1(object sender, EventArgs e)
+        {
+            DoTankAssemble();
         }
 
         private async void Button_Clicked_2(object sender, EventArgs e)
@@ -74,6 +74,11 @@ namespace MirageTank
             {
                 await DisplayAlert("警告", "请先生成图片！", "确认");
             }
+        }
+
+        private async void Button_Clicked_3(object sender, EventArgs e)
+        {
+            await Browser.OpenAsync("https://github.com/fEndman/MirageTank");
         }
 
         private void Entry1_Completed(object sender, EventArgs e)

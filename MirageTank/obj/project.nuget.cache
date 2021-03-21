@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBO4W3M8eL94IeY4KiyFt08iPkWp07s89sai76bKdi+P2QIBxENwEuhWnDU1J+PlP5kHFHJ0sqQtpKyqufw7NQ==",
+  "dgSpecHash": "0S6KX7IZVDpbDtEeWSeO5we4AGqCv9mmF8WbzbtVaA/u2Ed+AP8RLOLL3rFzaqQ5ZBt8N0J6mUPT9dfZAiUjKA==",
   "success": true,
-  "projectFilePath": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank\\MirageTank.csproj",
+  "projectFilePath": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank\\MirageTank.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17494\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\17494\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

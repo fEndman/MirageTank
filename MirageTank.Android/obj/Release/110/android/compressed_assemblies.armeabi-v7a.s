@@ -55,7 +55,7 @@
 
 	/* 3: MirageTank.dll */
 	/* uncompressed_file_size */
-	.long	43520
+	.long	45568
 	/* loaded */
 	.byte	0
 	/* data */
@@ -64,7 +64,7 @@
 
 	/* 4: Mono.Android.dll */
 	/* uncompressed_file_size */
-	.long	2211328
+	.long	2215424
 	/* loaded */
 	.byte	0
 	/* data */
@@ -253,7 +253,7 @@
 
 	/* 25: Xamarin.AndroidX.Browser.dll */
 	/* uncompressed_file_size */
-	.long	18432
+	.long	43008
 	/* loaded */
 	.byte	0
 	/* data */
@@ -550,7 +550,7 @@
 
 	/* 58: Xamarin.Essentials.dll */
 	/* uncompressed_file_size */
-	.long	41472
+	.long	44032
 	/* loaded */
 	.byte	0
 	/* data */

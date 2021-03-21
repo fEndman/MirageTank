@@ -2361,11 +2361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank.Android\\MirageTank.Android.csproj",
+      "projectUniqueName": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank.Android\\MirageTank.Android.csproj",
       "projectName": "MirageTank.Android",
-      "projectPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank.Android\\MirageTank.Android.csproj",
+      "projectPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank.Android\\MirageTank.Android.csproj",
       "packagesPath": "C:\\Users\\17494\\.nuget\\packages\\",
-      "outputPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank.Android\\obj\\",
+      "outputPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2388,8 +2388,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank\\MirageTank.csproj": {
-              "projectPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank\\MirageTank.csproj"
+            "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank\\MirageTank.csproj": {
+              "projectPath": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank\\MirageTank.csproj"
             }
           }
         }

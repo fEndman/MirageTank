@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jdiy87ihqklIKNMAK4le61qdCv1dOvBHDRVNVukT9Bhm2ZV6w5XHlY+kkg2HrJJNd0aVz9yzZJbRFdqbtWflMw==",
+  "dgSpecHash": "ZC1j31byLUxz3mbIwHDzHLkBmJYSKaX21j3wgxpafP8z96Nd5jbbCQ7rNjmWUGKrXeXPkchGM4T4dEPV75Q28w==",
   "success": true,
-  "projectFilePath": "E:\\00Project\\Android Project\\Xamarin\\MirageTank\\MirageTank.iOS\\MirageTank.iOS.csproj",
+  "projectFilePath": "E:\\00Project\\Android Project\\Xamarin\\MirageTankGit\\MirageTank.iOS\\MirageTank.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17494\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\17494\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
