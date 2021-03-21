@@ -4,7 +4,7 @@
 主要的DoTankAssemble()方法位于./MirageTank/MainPage.xaml.cs中
 项目根目录附上了一个我自己写的用于生成Xamarin.Android中应用程序图标的C#控制台程序。
 发布版APK文件附在GitHub项目根目录。
-或者你可以在百度网盘下载已经打包好的APK文件:
+或者你可以在百度网盘下载已经打包好的APK文件:https://pan.baidu.com/s/1ATfPbYTJQ-uAb7aZ3GHlSw 提取码:o0so
 
 使用方法：
 1.点击最上方两个空白图片即可选择表图和里图
