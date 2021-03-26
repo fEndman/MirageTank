@@ -68,7 +68,7 @@ namespace MirageTank
             if (photoTankStream.Length != 0)
             {
                 string path = await DependencyService.Get<IAndroidService>().ImageSave(photoTankStream);
-                await DisplayAlert("完成", "已保存至：\n" + path, "确认");
+                await DisplayAlert("完成", "已保存至：\n" + path + "\n可在MirageTank相册中找到", "确认");
             }
             else
             {

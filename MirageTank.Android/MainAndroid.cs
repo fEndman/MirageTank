@@ -21,7 +21,7 @@ namespace MirageTankAndroid
             await Permissions.RequestAsync<Permissions.StorageRead>();
             if (Permissions.ShouldShowRationale<Permissions.StorageRead>()) return "...保存个屁！不给爷权限还想让爷给你造坦克？";
 
-            string path = Path.Combine(Environment.ExternalStorageDirectory.AbsolutePath, "MirageTank");
+            string path = Path.Combine(Environment.ExternalStorageDirectory.AbsolutePath, Environment.DirectoryPictures, "MirageTank");
             string fileName = "Tank_" + DateTime.Now.ToLocalTime().ToString("yyyyMMdd_HHmmss") + ".png";
 
             if (Directory.Exists(path) == false)
@@ -35,7 +35,7 @@ namespace MirageTankAndroid
             photoTankFile.Flush();
             photoTankFile.Close();
 
-            return ("MirageTank/" + fileName);
+            return (Environment.DirectoryPictures + "/MirageTank/" + fileName);
         }
     }
 }

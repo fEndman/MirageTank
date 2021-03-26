@@ -26,4 +26,3 @@ E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Release\netsta
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Release\netstandard2.0\MirageTank.dll
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Release\netstandard2.0\ref\MirageTank.dll
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Release\netstandard2.0\MirageTank.pdb
-E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Release\netstandard2.0\MirageTank.csprojAssemblyReference.cache
