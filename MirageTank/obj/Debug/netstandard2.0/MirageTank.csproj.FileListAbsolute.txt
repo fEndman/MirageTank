@@ -27,3 +27,4 @@ E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\bin\Debug\netstand
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\bin\Debug\netstandard2.0\ref\MirageTank.dll
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\bin\Debug\netstandard2.0\MirageTank.pdb
 E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Debug\netstandard2.0\XamlC.stamp
+E:\00Project\Android Project\Xamarin\MirageTankGit\MirageTank\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs

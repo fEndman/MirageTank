@@ -78,7 +78,7 @@ namespace MirageTank
 
         private async void Button_Clicked_3(object sender, EventArgs e)
         {
-            await Browser.OpenAsync("https://github.com/fEndman/MirageTank");
+            await Navigation.PushAsync(new AboutPage());
         }
 
         private void Entry1_Completed(object sender, EventArgs e)

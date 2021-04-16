@@ -16,7 +16,7 @@
 
 	/* 1: Java.Interop.dll */
 	/* uncompressed_file_size */
-	.long	164864
+	.long	164352
 	/* loaded */
 	.byte	0
 	/* data */
@@ -34,7 +34,7 @@
 
 	/* 3: MirageTank.dll */
 	/* uncompressed_file_size */
-	.long	45568
+	.long	48640
 	/* loaded */
 	.byte	0
 	/* data */

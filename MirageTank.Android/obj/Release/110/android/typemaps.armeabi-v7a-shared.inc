@@ -1,50 +1,50 @@
 	.section	.rodata.map_aname.0,"aMS",%progbits,1
 	.type	.L.map_aname.0, %object
 .L.map_aname.0:
-	.asciz	"MirageTank.Android"
-	.size	.L.map_aname.0, 19
+	.asciz	"FormsViewGroup"
+	.size	.L.map_aname.0, 15
 
 	.section	.rodata.map_aname.1,"aMS",%progbits,1
 	.type	.L.map_aname.1, %object
 .L.map_aname.1:
-	.asciz	"FormsViewGroup"
-	.size	.L.map_aname.1, 15
+	.asciz	"Xamarin.AndroidX.Activity"
+	.size	.L.map_aname.1, 26
 
 	.section	.rodata.map_aname.2,"aMS",%progbits,1
 	.type	.L.map_aname.2, %object
 .L.map_aname.2:
-	.asciz	"Xamarin.AndroidX.Activity"
-	.size	.L.map_aname.2, 26
+	.asciz	"SkiaSharp.Views.Android"
+	.size	.L.map_aname.2, 24
 
 	.section	.rodata.map_aname.3,"aMS",%progbits,1
 	.type	.L.map_aname.3, %object
 .L.map_aname.3:
-	.asciz	"SkiaSharp.Views.Android"
-	.size	.L.map_aname.3, 24
+	.asciz	"Xamarin.AndroidX.AppCompat.AppCompatResources"
+	.size	.L.map_aname.3, 46
 
 	.section	.rodata.map_aname.4,"aMS",%progbits,1
 	.type	.L.map_aname.4, %object
 .L.map_aname.4:
-	.asciz	"Xamarin.AndroidX.AppCompat.AppCompatResources"
-	.size	.L.map_aname.4, 46
+	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.UI"
+	.size	.L.map_aname.4, 40
 
 	.section	.rodata.map_aname.5,"aMS",%progbits,1
 	.type	.L.map_aname.5, %object
 .L.map_aname.5:
-	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.UI"
-	.size	.L.map_aname.5, 40
+	.asciz	"Xamarin.AndroidX.Browser"
+	.size	.L.map_aname.5, 25
 
 	.section	.rodata.map_aname.6,"aMS",%progbits,1
 	.type	.L.map_aname.6, %object
 .L.map_aname.6:
-	.asciz	"Xamarin.AndroidX.Browser"
-	.size	.L.map_aname.6, 25
+	.asciz	"Xamarin.AndroidX.Core"
+	.size	.L.map_aname.6, 22
 
 	.section	.rodata.map_aname.7,"aMS",%progbits,1
 	.type	.L.map_aname.7, %object
 .L.map_aname.7:
-	.asciz	"Xamarin.AndroidX.Core"
-	.size	.L.map_aname.7, 22
+	.asciz	"MirageTank.Android"
+	.size	.L.map_aname.7, 19
 
 	.section	.rodata.map_aname.8,"aMS",%progbits,1
 	.type	.L.map_aname.8, %object
@@ -157,12 +157,12 @@
 	.section	.rodata.map_aname.26,"aMS",%progbits,1
 	.type	.L.map_aname.26, %object
 .L.map_aname.26:
-	.asciz	"Mono.Android"
-	.size	.L.map_aname.26, 13
+	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData.Core"
+	.size	.L.map_aname.26, 41
 
 	.section	.rodata.map_aname.27,"aMS",%progbits,1
 	.type	.L.map_aname.27, %object
 .L.map_aname.27:
-	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData.Core"
-	.size	.L.map_aname.27, 41
+	.asciz	"Mono.Android"
+	.size	.L.map_aname.27, 13
 
