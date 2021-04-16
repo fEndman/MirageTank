@@ -55,7 +55,7 @@
 
 	/* 3: MirageTank.dll */
 	/* uncompressed_file_size */
-	.long	48640
+	.long	50176
 	/* loaded */
 	.byte	0
 	/* data */

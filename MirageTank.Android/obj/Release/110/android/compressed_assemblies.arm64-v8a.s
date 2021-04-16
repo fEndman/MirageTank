@@ -35,7 +35,7 @@
 
 	/* 3: MirageTank.dll */
 	/* uncompressed_file_size */
-	.word	48640
+	.word	50176
 	/* loaded */
 	.byte	0
 	/* data */
